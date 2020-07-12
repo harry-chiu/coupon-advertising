@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f09c41b6d39f5d11977fc75da000032c",
+    "revision": "781f74a75b788bdebcdb8a1e517a7fd9",
     "url": "/coupon-advertising/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coupon-advertising/static/js/2.1d89d5df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f3e0730e4e86487e1af",
-    "url": "/coupon-advertising/static/js/main.29bc4ed7.chunk.js"
+    "revision": "0d9bc7b84a7bd89920eb",
+    "url": "/coupon-advertising/static/js/main.2017bc37.chunk.js"
   },
   {
     "revision": "74e987cfe9aa4179da00",
