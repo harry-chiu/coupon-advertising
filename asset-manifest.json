@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/coupon-advertising/static/js/main.29bc4ed7.chunk.js",
+    "main.js.map": "/coupon-advertising/static/js/main.29bc4ed7.chunk.js.map",
+    "runtime-main.js": "/coupon-advertising/static/js/runtime-main.a9c07907.js",
+    "runtime-main.js.map": "/coupon-advertising/static/js/runtime-main.a9c07907.js.map",
+    "static/js/2.1d89d5df.chunk.js": "/coupon-advertising/static/js/2.1d89d5df.chunk.js",
+    "static/js/2.1d89d5df.chunk.js.map": "/coupon-advertising/static/js/2.1d89d5df.chunk.js.map",
+    "index.html": "/coupon-advertising/index.html",
+    "precache-manifest.5e643fcd9e8c10e8a6f0f0e2cfc780a7.js": "/coupon-advertising/precache-manifest.5e643fcd9e8c10e8a6f0f0e2cfc780a7.js",
+    "service-worker.js": "/coupon-advertising/service-worker.js",
+    "static/js/2.1d89d5df.chunk.js.LICENSE.txt": "/coupon-advertising/static/js/2.1d89d5df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9c07907.js",
+    "static/js/2.1d89d5df.chunk.js",
+    "static/js/main.29bc4ed7.chunk.js"
+  ]
+}
