@@ -21,7 +21,7 @@ const Card = ({ imageSrc, title, description }) => {
           <Title>{title}</Title>
           <Description>{description}</Description>
         </Content>
-        <Button ad-name={`ad-${title}`}>查看</Button>
+        <Button data-ad-name={`ad-${title}`}>查看</Button>
       </Body>
     </Container>
   );
